@@ -9,10 +9,11 @@ $ yarn
 
 # 开发 React
 $ yarn run react
-yarn run vue
-yarn run ts
+
+$ yarn run vue
+$ yarn run ts
 ```
 
-### Tip
+### Tips
 
-Node-sass 国内安装比较慢, 在项目内新增了 `.yarnrc` 和 `.npmrc` 用来设置镜像加快依赖包下载速度的. Enjoy it!
+Node-sass 国内安装比较慢, 在项目内新增了 `.yarnrc` 和 `.npmrc` 用来设置镜像加快依赖包下载速度的. Enjoy it! :zap:
